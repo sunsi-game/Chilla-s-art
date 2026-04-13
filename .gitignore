@@ -1,0 +1,9 @@
+# Unreal 기본 제외
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+Content/Fab/
