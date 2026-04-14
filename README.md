@@ -22,7 +22,7 @@
 프로젝트의 실제 동작 결과는 아래 시연 영상과 설명 자료를 통해 확인할 수 있습니다.
 
 ## Demo
-- 시연 영상:
+- [시연 영상](https://youtu.be/DwSbahXdxhk?si=5cL4smS2v-P9op6v)
   
 - 기술 정리 글: [Velog 링크]
   
