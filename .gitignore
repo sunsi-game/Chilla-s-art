@@ -9,3 +9,7 @@ Build/
 
 
 Content/Fab/
+# 제외할 폴더
+Content/BP_Level/Fab/
+Content/__ExternalActors__/
+Content/converted/
