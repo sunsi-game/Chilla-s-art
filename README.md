@@ -1,5 +1,5 @@
 # Chilla-s-art
-<img width="1200" height="600" alt="썸네일" src="https://github.com/user-attachments/assets/2d31782c-c2be-43db-8b35-2845888afb47" />
+<img width="640" height="380" alt="썸네일" src="https://github.com/user-attachments/assets/2d31782c-c2be-43db-8b35-2845888afb47" />
 
 ## Overview
 이 프로젝트는 언리얼 엔진 기반 공포게임 프로토타입 포트폴리오입니다.  
