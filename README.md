@@ -1,3 +1,4 @@
+
 # Chilla-s-art
 
 ## Overview
@@ -26,6 +27,9 @@
 - 기술 정리 글: [Velog 링크]
   
 - PPT : 
+
+[언리얼_엔진_발표자료.pdf](https://github.com/user-attachments/files/26693057/_._.pdf)
+
 
 
 ※ 외부 에셋 일부는 저장소에 포함되어 있지 않으나, 핵심 구현 로직과 프로젝트 구조는 확인할 수 있도록 정리했습니다.
