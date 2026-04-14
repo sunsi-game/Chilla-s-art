@@ -31,6 +31,6 @@
 ## Video
 - [시연 영상](https://youtu.be/DwSbahXdxhk?si=5cL4smS2v-P9op6v)
   
-- 기술 정리 글: [Velog 링크]
+- [기술 정리 Velog](https://velog.io/@kim4h4y/sunsi-%EC%96%B8%EB%A6%AC%EC%96%BC-%EB%B8%94%EB%A3%A8%ED%94%84%EB%A6%B0%ED%8A%B8-%EA%B3%B5%ED%8F%AC%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
   
 - [PPT](https://github.com/user-attachments/files/26693057/_._.pdf)
